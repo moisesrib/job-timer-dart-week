@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462847422288",
+    "project_id": "job-timmer-soy",
+    "storage_bucket": "job-timmer-soy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462847422288:android:aa391b77894c77c0de8655",
+        "android_client_info": {
+          "package_name": "portifolio.com.job_timmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462847422288-l4i9ovp6bnl109bl7eg89vaatr508d1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcH8X92nqqk1UUT9ZEKPnAr4J8L2-I0jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462847422288-l4i9ovp6bnl109bl7eg89vaatr508d1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
